@@ -78,8 +78,11 @@ return {
   { import = "lazyvim.plugins.extras.formatting.prettier" },
   { import = "lazyvim.plugins.extras.linting.eslint" },
 
+  -- AI Enhancements
+  { import = "lazyvim.plugins.extras.ai.copilot" },
+  { import = "lazyvim.plugins.extras.ai.copilot-chat" },
+
   -- Coding Enhancements
-  { import = "lazyvim.plugins.extras.coding.copilot" },
   { import = "lazyvim.plugins.extras.coding.yanky" },
   { import = "lazyvim.plugins.extras.coding.mini-surround" },
   { import = "lazyvim.plugins.extras.coding.neogen" },
