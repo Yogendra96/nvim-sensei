@@ -86,7 +86,6 @@ return {
 
   -- Coding Enhancements
   { import = "lazyvim.plugins.extras.coding.copilot" },
-  { import = "lazyvim.plugins.extras.coding.copilot-chat" },
   { import = "lazyvim.plugins.extras.coding.yanky" },
   { import = "lazyvim.plugins.extras.coding.mini-surround" },
   { import = "lazyvim.plugins.extras.coding.neogen" },
